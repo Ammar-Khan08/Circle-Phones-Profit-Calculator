@@ -1,0 +1,131 @@
+Welcome to Circle Phones' Profit calculator. You can calculate your profits for a specific day, by week or you can divide the week into weekdays and the weekend.
+Welcome to Circle Phones Profit calculator
+You can calculate the profit of the company according to a specific day or by a week or divide the week into weekdays and weekend
+Enter:
+1 - For specific Day
+2 - For the Week
+3 - For Week Business Days
+4 - For Weekend days
+0 - Exit
+1
+Enter a specific day [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]
+Monday
+For Monday
+Enter product number 1-5, or enter 0 to stop:
+1
+Enter quantity sold:
+37
+Enter product number 1-5, or enter 0 to stop:
+4
+Enter quantity sold:
+52
+Enter product number 1-5, or enter 0 to stop:
+0
+Your total profit for the Monday is: $7874.61
+More hard work needed... The last Monday wasn't the best
+You can calculate the profit of the company according to a specific day or by a week or divide the week into weekdays and weekend
+Enter:
+1 - For specific Day
+2 - For the Week
+3 - For Week Business Days
+4 - For Weekend days
+0 - Exit
+2
+For Monday
+Enter product number 1-5, or enter 0 to stop:
+2
+Enter quantity sold:
+600
+Enter product number 1-5, or enter 0 to stop:
+0
+For Tuesday
+Enter product number 1-5, or enter 0 to stop:
+0
+For Wednesday
+Enter product number 1-5, or enter 0 to stop:
+0
+For Thursday
+Enter product number 1-5, or enter 0 to stop:
+0
+For Friday
+Enter product number 1-5, or enter 0 to stop:
+0
+For Saturday
+Enter product number 1-5, or enter 0 to stop:
+0
+For Sunday
+Enter product number 1-5, or enter 0 to stop:
+3
+Enter quantity sold:
+500
+Enter product number 1-5, or enter 0 to stop:
+0
+Your total profit for the week is: $97545.00
+You did good this week
+You can calculate the profit of the company according to a specific day or by a week or divide the week into weekdays and weekend
+Enter:
+1 - For specific Day
+2 - For the Week
+3 - For Week Business Days
+4 - For Weekend days
+0 - Exit
+3
+For Monday
+Enter product number 1-5, or enter 0 to stop:
+5
+Enter quantity sold:
+900
+Enter product number 1-5, or enter 0 to stop:
+0
+For Tuesday
+Enter product number 1-5, or enter 0 to stop:
+0
+For Wednesday
+Enter product number 1-5, or enter 0 to stop:
+0
+For Thursday
+Enter product number 1-5, or enter 0 to stop:
+0
+For Friday
+Enter product number 1-5, or enter 0 to stop:
+0
+Your total profit for the week (business days) is: $46341.00
+You did good this week (business days)
+You can calculate the profit of the company according to a specific day or by a week or divide the week into weekdays and weekend
+Enter:
+1 - For specific Day
+2 - For the Week
+3 - For Week Business Days
+4 - For Weekend days
+0 - Exit
+4
+For Saturday
+Enter product number 1-5, or enter 0 to stop:
+4
+Enter quantity sold:
+600
+Enter product number 1-5, or enter 0 to stop:
+0
+For Sunday
+Enter product number 1-5, or enter 0 to stop:
+0
+Your total profit for the weekend is: $39438.00
+You did good this weekend
+You can calculate the profit of the company according to a specific day or by a week or divide the week into weekdays and weekend
+Enter:
+1 - For specific Day
+2 - For the Week
+3 - For Week Business Days
+4 - For Weekend days
+0 - Exit
+5
+Invalid input, please enter a valid number
+You can calculate the profit of the company according to a specific day or by a week or divide the week into weekdays and weekend
+Enter:
+1 - For specific Day
+2 - For the Week
+3 - For Week Business Days
+4 - For Weekend days
+0 - Exit
+0
+Program End!
